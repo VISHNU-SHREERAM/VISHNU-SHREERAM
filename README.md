@@ -1,5 +1,5 @@
-- 👋 Hi, I’m VISHNU-SHREERAM
-  I haven't made most of my repositories public😅.
+- 👋 Hi, I’m VISHNU-SHREERAM.
+-I haven't made most of my repositories public😅.
 
 <!---
 VISHNU-SHREERAM/VISHNU-SHREERAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
